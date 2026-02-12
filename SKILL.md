@@ -1,10 +1,9 @@
 ---
 name: principle-creation
-description: Extract reusable decision-making principles from experiences—especially
-  failures—to build a personal or organizational "principle repository.
+description: Extract reusable decision-making principles from experiences—especially failures—to build a personal or organizational "principle repository.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - principle-creation
